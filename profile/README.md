@@ -33,7 +33,7 @@ We are also maintianing a number of repositories containing popular tools that w
 
 ## Getting Started
 To begin using IDC:
-* Visit our official website
+* Visit our official website https://portal.imaging.datacommons.cancer.gov/
 * Explore our [Getting started guide](https://learn.canceridc.dev/getting-started-with-idc) in the IDC Documentation
 * Join the [IDC User Forum](https://discourse.canceridc.dev/) for community support and discussions
 
