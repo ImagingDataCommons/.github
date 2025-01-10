@@ -28,7 +28,7 @@ We are also maintianing a number of repositories containing popular tools that w
 * [dicom-microscopy-viewer](https://github.com/ImagingDataCommons/dicom-microscopy-viewer): Web-based DICOM slide microscopy viewer library
 * [dicomweb-client](https://github.com/ImagingDataCommons/dicomweb-client): python client for DICOMweb RESTful services
 * [libdicom](https://github.com/ImagingDataCommons/libdicom): C library for reading DICOM files
-* [s5cmd-python-distributions](https://github.com/ImagingDataCommons/s5cmd-python-distributions): package that allows you to install `s5cmd` command line tools with `pip`
+* [s5cmd-python-distributions](https://github.com/ImagingDataCommons/s5cmd-python-distributions): package that allows you to install [`s5cmd`](https://github.com/peak/s5cmd) command line tools with `pip`
 
 
 ## Getting Started
