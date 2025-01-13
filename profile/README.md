@@ -21,6 +21,7 @@ Our GitHub organization hosts various repositories to support IDC users:
 * [IDC-Tutorials](https://github.com/ImagingDataCommons/IDC-Tutorials): Self-guided notebook tutorials to help you get started with IDC
 * [idc-index](https://github.com/ImagingDataCommons/idc-index): python package for searching, downloading, and simplifying access to the data in IDC
 * [SlicerIDCBrowser](https://github.com/ImagingDataCommons/SlicerIDCBrowser): 3D Slicer extension providing access to IDC data
+* [idc-wsi-conversion](https://github.com/ImagingDataCommons/idc-wsi-conversion): PixelMed Toolkit based scripts used in IDC for converting vendor-specific slide microscopy formats into DICOM WSI representation
 
 We are also maintianing a number of repositories containing popular tools that we use in IDC, but which are of general utility:
 * [highdicom](https://github.com/ImagingDataCommons/highdicom): high-level DICOM abstractions for the Python programming language
