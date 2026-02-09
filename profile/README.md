@@ -15,6 +15,13 @@ The [National Cancer Institute Imaging Data Commons (IDC)](https://portal.imagin
 * Cloud-based: Data available from both Google and AWS public buckets
 * Standardized data: All images and derived data harmonized into DICOM format
 
+## Getting Started
+To begin using IDC:
+* Check out [idc-claude-skill](https://github.com/ImagingDataCommons/idc-claude-skill) - a plugin for your LLM agent that offers natural language interface to interacting with IDC
+* Visit our official website https://portal.imaging.datacommons.cancer.gov/
+* Explore our [Getting started guide](https://learn.canceridc.dev/getting-started-with-idc) in the IDC Documentation
+* Join the [IDC User Forum](https://discourse.canceridc.dev/) for community support and discussions
+
 ## Repositories
 
 Our GitHub organization hosts various repositories to support IDC users:
@@ -30,13 +37,6 @@ We are also maintianing a number of repositories containing popular tools that w
 * [dicomweb-client](https://github.com/ImagingDataCommons/dicomweb-client): python client for DICOMweb RESTful services
 * [libdicom](https://github.com/ImagingDataCommons/libdicom): C library for reading DICOM files
 * [s5cmd-python-distributions](https://github.com/ImagingDataCommons/s5cmd-python-distributions): package that allows you to install [`s5cmd`](https://github.com/peak/s5cmd) command line tools with `pip`
-
-
-## Getting Started
-To begin using IDC:
-* Visit our official website https://portal.imaging.datacommons.cancer.gov/
-* Explore our [Getting started guide](https://learn.canceridc.dev/getting-started-with-idc) in the IDC Documentation
-* Join the [IDC User Forum](https://discourse.canceridc.dev/) for community support and discussions
 
 ## Support
 If you need assistance or have questions, please:
