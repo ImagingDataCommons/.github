@@ -17,7 +17,7 @@ The [National Cancer Institute Imaging Data Commons (IDC)](https://portal.imagin
 
 ## Getting Started
 To begin using IDC:
-* Check out [idc-claude-skill](https://github.com/ImagingDataCommons/idc-claude-skill) - a plugin for your LLM agent that offers natural language interface to interacting with IDC
+* Check out [imaging-data-commons-skill](https://github.com/ImagingDataCommons/imaging-data-commons-skill) - a plugin for your LLM agent that offers natural language interface to interacting with IDC
 * Visit our official website https://portal.imaging.datacommons.cancer.gov/
 * Explore our [Getting started guide](https://learn.canceridc.dev/getting-started-with-idc) in the IDC Documentation
 * Join the [IDC User Forum](https://discourse.canceridc.dev/) for community support and discussions
