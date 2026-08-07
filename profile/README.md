@@ -37,6 +37,9 @@ We are also maintianing a number of repositories containing popular tools that w
 * [dicomweb-client](https://github.com/ImagingDataCommons/dicomweb-client): python client for DICOMweb RESTful services
 * [libdicom](https://github.com/ImagingDataCommons/libdicom): C library for reading DICOM files
 * [s5cmd-python-distributions](https://github.com/ImagingDataCommons/s5cmd-python-distributions): package that allows you to install [`s5cmd`](https://github.com/peak/s5cmd) command line tools with `pip`
+* [plastimatch-python-distributions](https://github.com/ImagingDataCommons/plastimatch-python-distributions): `pip`-installable binaries of [Plastimatch](https://plastimatch.org/)
+* [dcmqi-python-distributions](https://github.com/ImagingDataCommons/dcmqi-python-distributions): `pip`-installable binaries of [dcmqi](https://github.com/QIICR/dcmqi)
+
 
 ## Support
 If you need assistance or have questions, please:
